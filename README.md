@@ -1,5 +1,3 @@
-**Taskinator - Kanban Board**
-
 ## Taskinator
 
 **Project Description/Summary:**
