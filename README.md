@@ -28,4 +28,4 @@ You can clone this repo - no special instructions to load this!
 
 **Screenshots:**
 
-![Screenshot](RELATIVE LINK GOES HERE)
+![GIF of the Taskinator site adding and changing the status of various tasks](./assets/images/taskinator-gif.gif)
